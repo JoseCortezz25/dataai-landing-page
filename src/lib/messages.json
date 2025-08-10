@@ -1,0 +1,93 @@
+{
+  "brand": {
+    "name": "Uzbek-Oman Investment Company"
+  },
+  "hero": {
+    "title": ["Uzbek-Oman", "Investment Company"],
+    "subtitle": "Welcome to Uzbek-Oman Investment Company – a trusted partner in fostering economic growth and strengthening business ties between Uzbekistan and Oman.",
+    "cta": "Become a partner",
+    "imageAlt": "Modern skyline representing corporate investment"
+  },
+  "about": {
+    "eyebrow": "About UzOman",
+    "title": "We Build the Future Through Innovation and Strategic Investments",
+    "description": "Established in 2009 as a partnership between Uzbekistan Fund for Reconstruction & Development (UFRD) and Oman Investment Authority (OIA). Committed capital: US $500 million, managing over US $250 million in assets. Among the first foreign direct investors in Uzbekistan, adhering to top governance standards.",
+    "coreValuesLabel": "Core values:",
+    "coreValues": [
+      "Excellence",
+      "Integrity",
+      "Teamwork",
+      "Innovation",
+      "Dedication"
+    ],
+    "cta": "Discover more about us"
+  },
+  "criteria": {
+    "title": "Investment criteria",
+    "items": [
+      {
+        "title": "Investment size",
+        "description": "USD 5 million – 20 million"
+      },
+      {
+        "title": "UzOman ownership position",
+        "description": "Significant Minority (20%–49%)"
+      },
+      {
+        "title": "Investment period",
+        "description": "5 – 8 years"
+      }
+    ]
+  },
+  "mandate": {
+    "title": "Investment Mandate",
+    "points": [
+      {
+        "label": "01",
+        "title": "Focused asset class",
+        "description": "Private Equity and Public Equity"
+      },
+      {
+        "label": "02",
+        "title": "Focused geography",
+        "description": "Republic of Uzbekistan"
+      },
+      {
+        "label": "03",
+        "title": "Focused industries",
+        "description": "Industries essential to economic growth and attractive returns such as heavy industry, consumer goods, logistics, healthcare, education, tourism and more."
+      },
+      {
+        "label": "04",
+        "title": "Investment targets",
+        "description": "Private companies in need of growth capital; projects that fill the gap in the industry value chain"
+      },
+      {
+        "label": "05",
+        "title": "Time horizon",
+        "description": "Medium and Long-term investments"
+      },
+      {
+        "label": "06",
+        "title": "Value added",
+        "description": "Add value to the investee companies via growth, capital restructuring, efficiency and corporate governance improvements"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's work together",
+    "form": {
+      "fullName": "Full name",
+      "phone": "Phone",
+      "email": "Email",
+      "privacy": "I agree with the Privacy Policy",
+      "submit": "Send"
+    },
+    "social": [
+      { "name": "Instagram", "href": "#" },
+      { "name": "LinkedIn", "href": "#" },
+      { "name": "Telegram", "href": "#" },
+      { "name": "WhatsApp", "href": "#" }
+    ]
+  }
+}
