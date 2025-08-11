@@ -3,24 +3,40 @@
     "name": "Uzbek-Oman Investment Company"
   },
   "hero": {
-    "title": ["Uzbek-Oman", "Investment Company"],
-    "subtitle": "Welcome to Uzbek-Oman Investment Company – a trusted partner in fostering economic growth and strengthening business ties between Uzbekistan and Oman.",
-    "cta": "Become a partner",
-    "imageAlt": "Modern skyline representing corporate investment"
+    "title": ["DataAI Services"],
+    "subtitle": "Transformamos datos en decisiones inteligentes",
+    "cta": "Trabajemos juntos",
+    "ctaLink": "#contact",
+    "imageAlt": "DataAI Services"
   },
   "about": {
-    "eyebrow": "About UzOman",
-    "title": "We Build the Future Through Innovation and Strategic Investments",
-    "description": "Established in 2009 as a partnership between Uzbekistan Fund for Reconstruction & Development (UFRD) and Oman Investment Authority (OIA). Committed capital: US $500 million, managing over US $250 million in assets. Among the first foreign direct investors in Uzbekistan, adhering to top governance standards.",
-    "coreValuesLabel": "Core values:",
+    "eyebrow": "Sobre DataAI Services",
+    "title": "¿Quiénes somos?",
+    "description": "Un equipo que cuenta con experiencia en la recopilación, análisis y visualización de enormes volúmenes de datos. Nos comprometemos a mantenernos actualizados con los últimos desarrollos en tecnología y metodologías de análisis de datos, asegurando que nuestros clientes siempre tengan acceso a las mejores prácticas y soluciones de vanguardia.",
+    "coreValuesLabel": "Nuestros valores:",
     "coreValues": [
-      "Excellence",
-      "Integrity",
-      "Teamwork",
-      "Innovation",
-      "Dedication"
+      "Innovación",
+      "Profesionalismo",
+      "Resultados",
+      "Transparencia",
+      "Colaboración"
     ],
-    "cta": "Discover more about us"
+    "cta": "Conoce más sobre nosotros"
+  },
+  "standFor": {
+    "title": "Misión y Visión",
+    "items": [
+      {
+        "title": "Misión",
+        "description": "Transformar las operaciones de nuestros clientes mediante soluciones inteligentes que potencien la eficiencia, la seguridad y la rentabilidad usando el poder de los datos.",
+        "icon": "🚀"
+      },
+      {
+        "title": "Visión",
+        "description": "Ser líderes regionales en consultoría de datos e inteligencia artificial, reconocidos por nuestra innovación, profesionalismo y resultados.",
+        "icon": "🎯"
+      }
+    ]
   },
   "criteria": {
     "title": "Investment criteria",
@@ -39,43 +55,71 @@
       }
     ]
   },
-  "mandate": {
-    "title": "Investment Mandate",
-    "points": [
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones integrales, todo en un solo lugar",
+    "items": [
       {
-        "label": "01",
-        "title": "Focused asset class",
-        "description": "Private Equity and Public Equity"
+        "title": "BIG DATA",
+        "description": "Estrategias de datos a gran escala para integrar fuentes, automatizar KPIs y habilitar analítica avanzada.",
+        "icon": "💼",
+        "bullets": [
+          "Integración de datos",
+          "KPIs Automáticos",
+          "Visualización Avanzada",
+          "Análisis Estadístico"
+        ]
       },
       {
-        "label": "02",
-        "title": "Focused geography",
-        "description": "Republic of Uzbekistan"
+        "title": "Inteligencia Artificial",
+        "description": "Modelos que convierten datos en decisiones: predicción, ML aplicado y asistentes conversacionales.",
+        "icon": "🤖",
+        "bullets": [
+          "Modelos Predictivos",
+          "Machine Learning",
+          "Chatbots inteligentes",
+          "Asistentes virtuales"
+        ]
       },
       {
-        "label": "03",
-        "title": "Focused industries",
-        "description": "Industries essential to economic growth and attractive returns such as heavy industry, consumer goods, logistics, healthcare, education, tourism and more."
+        "title": "Consultorías",
+        "description": "Acompañamiento experto para diagnosticar, optimizar rendimiento y automatizar procesos clave.",
+        "icon": "🧩",
+        "bullets": [
+          "Diagnóstico y auditoría de bases de datos",
+          "Optimización de rendimiento (Tuning)",
+          "Automatización de tareas administrativas"
+        ]
+      }
+    ]
+  },
+  "objectives": {
+    "title": "Nuestros Objetivos",
+    "subtitle": "Impulsamos eficiencia, seguridad y rentabilidad con soluciones inteligentes guiadas por datos.",
+    "items": [
+      {
+        "title": "Soluciones Eficientes",
+        "description": "Brindar soluciones eficientes y personalizadas que se adapten a las necesidades específicas de cada cliente.",
+        "imageAlt": "Soluciones eficientes",
+        "imageUrl": "/image-1.jpg"
       },
       {
-        "label": "04",
-        "title": "Investment targets",
-        "description": "Private companies in need of growth capital; projects that fill the gap in the industry value chain"
+        "title": "Transformación Digital",
+        "description": "Apoyar la transformación digital de las empresas mediante tecnologías innovadoras y procesos optimizados.",
+        "imageAlt": "Transformación digital",
+        "imageUrl": "/image-2.png"
       },
       {
-        "label": "05",
-        "title": "Time horizon",
-        "description": "Medium and Long-term investments"
-      },
-      {
-        "label": "06",
-        "title": "Value added",
-        "description": "Add value to the investee companies via growth, capital restructuring, efficiency and corporate governance improvements"
+        "title": "Decisiones Basadas en Datos",
+        "description": "Impulsar la toma de decisiones fundamentadas en datos reales y análisis profundos del negocio.",
+        "imageAlt": "Decisiones basadas en datos",
+        "imageUrl": "/image-3.png"
       }
     ]
   },
   "contact": {
-    "title": "Let's work together",
+    "title": "Trabajemos juntos",
+    "description": "Siempre estamos buscando nuevas oportunidades para colaborar y crecer juntos. Si deseas que trabajemos juntos en un gran proyecto, contáctanos.",
     "form": {
       "fullName": "Full name",
       "phone": "Phone",
@@ -84,10 +128,10 @@
       "submit": "Send"
     },
     "social": [
-      { "name": "Instagram", "href": "#" },
-      { "name": "LinkedIn", "href": "#" },
-      { "name": "Telegram", "href": "#" },
-      { "name": "WhatsApp", "href": "#" }
+      { "name": "Correo", "href": "mailto:servicios@dataaiservices.com" },
+      { "name": "Bogotá, Colombia", "href": "" },
+      { "name": "Teléfono", "href": "tel:3132331845" },
+      { "name": "Teléfono 2", "href": "tel:3026847059" }
     ]
   }
 }

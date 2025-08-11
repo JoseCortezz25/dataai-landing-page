@@ -8,11 +8,11 @@ export const AboutSection = async () => {
   return (
     <Section id="about" className="grid grid-cols-1 gap-10 md:grid-cols-3">
       <div className="md:col-span-1">
-        <Paragraph className="text-primary font-medium tracking-wide uppercase">
-          • {about.eyebrow}
+        <Paragraph className="text-lg font-bold tracking-wide text-blue-900 uppercase">
+          {about.eyebrow}
         </Paragraph>
         <div className="mt-8 space-y-3">
-          <Paragraph className="text-black-300 font-semibold uppercase">
+          <Paragraph className="font-semibold text-blue-900 uppercase">
             {about.coreValuesLabel}
           </Paragraph>
           <ul className="text-muted-foreground space-y-1 text-sm">
@@ -27,12 +27,8 @@ export const AboutSection = async () => {
           {about.title}
         </Heading>
         <Paragraph className="max-w-3xl">{about.description}</Paragraph>
-        <a
-          href="#about"
-          className="secondary-button mt-8 inline-flex px-6 py-3"
-        >
+        <a href="#about" className="secondary-button mt-8">
           {about.cta}
-          <span aria-hidden>↗</span>
         </a>
       </div>
     </Section>
