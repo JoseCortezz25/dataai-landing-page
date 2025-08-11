@@ -3,7 +3,7 @@ import { Heading } from '@/components/atoms/heading';
 import { Paragraph } from '@/components/atoms/paragraph';
 import messages from '@/lib/messages.json';
 
-export const StandForSection = async () => {
+export const StandForSection = () => {
   const { standFor } = messages;
   return (
     <Section id="stand-for">

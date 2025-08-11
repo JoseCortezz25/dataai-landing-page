@@ -2,7 +2,7 @@ import messages from '@/lib/messages.json';
 import { Section } from '@/components/atoms/section';
 import { Heading } from '../atoms/heading';
 
-export const HeroSection = async () => {
+export const HeroSection = () => {
   const { hero } = messages;
   return (
     <div
