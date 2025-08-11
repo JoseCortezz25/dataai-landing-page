@@ -4,7 +4,7 @@ import messages from '@/lib/messages.json';
 import { ObjectiveCard } from '@/components/molecules/objective-card';
 import { Paragraph } from '../atoms/paragraph';
 
-export const ObjectivesSection = async () => {
+export const ObjectivesSection = () => {
   const { objectives } = messages;
   return (
     <section id="objectives" className="bg-[#0c1941] py-10">

@@ -3,7 +3,7 @@ import { Heading } from '@/components/atoms/heading';
 import { Paragraph } from '@/components/atoms/paragraph';
 import messages from '@/lib/messages.json';
 
-export const AboutSection = async () => {
+export const AboutSection = () => {
   const { about } = messages;
   return (
     <Section id="about" className="grid grid-cols-1 gap-10 md:grid-cols-3">

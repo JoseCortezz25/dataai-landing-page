@@ -4,7 +4,7 @@ import { Paragraph } from '@/components/atoms/paragraph';
 import { ServiceCard } from '../molecules/service-card';
 import messages from '@/lib/messages.json';
 
-export const CriteriaSection = async () => {
+export const CriteriaSection = () => {
   const { services } = messages;
   return (
     <Section id="services">
